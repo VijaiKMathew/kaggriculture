@@ -1,0 +1,77 @@
+# ==============================================================================
+# Git Ignore - Kaggle Kaggriculture Production Repository
+# ==============================================================================
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE / Editor
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Replay and large data binaries
+*.parquet
+*.csv
+*.tsv
+*.npy
+*.npz
+*.pkl
+*.pickle
+*.zip
+*.tar.gz
+*.pt
+*.pth
+*.onnx
+*.bin
+*.weights
+*.h5
+replays/
+logs/
+data/
+datasets/
+ml_data/
+models/
+submission.tar.gz
+package.tar.gz
+scratch/
+.kaggle_submissions.json
+.kaggle_evals.json
+.local_scores.json

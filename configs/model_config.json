@@ -1,0 +1,9 @@
+{
+  "champion": "experiments/promoted/exp-476-opening-stack-slot-merge.py",
+  "label": "v79 EXP-476 Opening Lockstep Race + Slot-Hygiene Merge",
+  "ladder": "LTH killer 0.20->0.72 WR (+8718 t+4.34@30); dauriel 1.00 (+2637); igor 0.95 (+12645); mirror 40/40 M1+2325 t+26.5",
+  "set": "2026-09-22",
+  "note": "EXP-476: (a) step-0 symmetric 30-unit wheat round trip replacing tape [BUY 13, BUY 30, SELL 30]; (b) step-1 squeeze BUY 30/SELL 30 sized below field squeezes; (c) same-item SELL merge in _premium_drip/_midgame_shed_monetization/_neural_market_arbitrator BEFORE the 10-order truncation (EXP-449 merged after truncation, too late). Converts the LTH killer archetype from 0.20 to 0.72 WR. WR-first gate PASS, invariants PASS, redteam 6/6 PASS.",
+  "sha256": "dc18fd0b71f23555d821398fd3e32310aa59f6904529746e4a6544f45c3fa879",
+  "body_sha256": "177a5592e96999d29e1b1be2f64c6ee00a4e40eaf1a1064c7cde43f945bfeed3"
+}
