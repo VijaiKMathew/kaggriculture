@@ -12,15 +12,15 @@
 **Turn Latency Budget:** Median **12.4 ms** / Turn (Kaggle Environment Limit: **500 ms**, 97.5% latency headroom)  
 **Engineering Maturity Level:** Phase 5 — Autonomous Maker-Grader loop, behavioral cloning from 100,000+ mined tournament transitions, AMM liquidity micro-modeling, zero runtime exceptions across 10,000+ simulated matches  
 **Tech Stack:** Python 3.11, NumPy, Polars, Matplotlib, JAX, Kaggle Environments, Git Worktrees  
-**Interactive Portfolio:** [Autonomous Multi-Agent Simulation Showcase](docs/index.html)  
+**Interactive Portfolio:** Autonomous Multi-Agent Simulation Showcase ()  
 
 ### 🌐 Project Links & Resources
 - **Public GitHub Repository:** [https://github.com/vijaikm/kaggriculture-autonomous-engine](https://github.com/vijaikm/kaggriculture-autonomous-engine)
 - **Private Research & Monorepo:** [https://github.com/vijaikm/kaggriculture-all](https://github.com/vijaikm/kaggriculture-all)
 - **Interactive Portfolio & Architecture Showcase:** [https://vijaikm.github.io/kaggriculture-all/docs/index.html](https://vijaikm.github.io/kaggriculture-all/docs/index.html)
-- **Solution Walkthrough Notebook:** [notebooks/kaggriculture_solution_walkthrough.ipynb](notebooks/kaggriculture_solution_walkthrough.ipynb)
-- **Multi-Agent Systems Deep Dive:** [docs/showcase/architecture.html](docs/showcase/architecture.html)
-- **Empirical Benchmarks & Ablations:** [docs/showcase/benchmarks.html](docs/showcase/benchmarks.html)
+- **Solution Walkthrough Notebook:** notebooks/kaggriculture_solution_walkthrough.ipynb ()
+- **Multi-Agent Systems Deep Dive:** docs/showcase/architecture.html ()
+- **Empirical Benchmarks & Ablations:** docs/showcase/benchmarks.html ()
 - **Kaggle Profile:** [https://www.kaggle.com/vijaikm](https://www.kaggle.com/vijaikm)
 
 ---
